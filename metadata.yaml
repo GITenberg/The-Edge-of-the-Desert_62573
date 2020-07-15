@@ -1,0 +1,27 @@
+_repo: The-Edge-of-the-Desert_62573
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dunbar, Ianthe M.
+    gutenberg_agent_id: '52009'
+    url: http://www.gutenberg.org/2009/agents/52009
+description: ''
+gutenberg_issued: '2020-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62573'
+  lccn: '24021417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tunisia -- Social life and customs'
+- !lcc 'DT'
+- !lcsh 'Tunisia -- Description and travel'
+- GITenberg
+tableOfContents: Kairouan -- Sects and superstitions -- An Arab wedding -- Sousse
+  -- Passing through -- Sfax -- Oasis towns -- The sand diviner -- The circus -- Round
+  about Gabès -- Customs -- Tunis.
+title: The Edge of the Desert
+url: http://www.gutenberg.org/ebooks/62573
